@@ -69,6 +69,7 @@ while True:
 		break
 
 	else:
+		os.system("clear")
 		print("ERROR! ")
 		
 	
