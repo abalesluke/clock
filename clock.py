@@ -1,5 +1,9 @@
 import datetime ,os ,time
 
+print("We Need Root Access to auto install requirements...")
+os.system("sudo apt-get install figlet")
+os.system("sudo apt-get install lolcat")
+
 while True:
 
 	def dtime():
